@@ -1,2 +1,3 @@
 # hello-world
-Test Respository
+
+Codeprincessa is eager to learn GIT and increase programming knowledge.
